@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>World</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <h1>Lorem, ipsum.</h1>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quo molestiae alias, in nesciunt labore veniam, dolore
+        distinctio, consectetur quasi tenetur repellat laborum. Commodi in fuga, a consequuntur rerum obcaecati soluta?
+    </p>
+    <h2>Lorem, ipsum dolor.</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat sint porro dolores alias quam? Labore ea sit
+        excepturi numquam accusamus dolorem cum vel temporibus, quasi a officia quos nulla praesentium.
+        Dolores, numquam! Facilis, sit nisi tenetur facere earum maiores qui molestiae hic in iste veniam nesciunt
+        perspiciatis commodi delectus sapiente magni odio, beatae numquam laudantium. Ratione veritatis quibusdam
+        tenetur consequuntur!
+        Voluptatem, perspiciatis eligendi? Ab deserunt laboriosam velit ratione nihil esse modi voluptates nulla in!
+        Nisi et maiores, deserunt, inventore laboriosam omnis eaque distinctio quis corporis fugiat, praesentium dolore
+        dicta rerum?
+        Eos exercitationem sequi saepe dolor, impedit iure vitae itaque magnam facilis laudantium architecto neque iste!
+        Nemo perspiciatis asperiores, dolorem sapiente nihil porro repudiandae illo quas, quod temporibus laboriosam
+        molestiae delectus.
+        Nemo, error similique officia rem autem eligendi consectetur, odio omnis odit voluptatibus tempora quas dolore
+        ducimus nulla veritatis quaerat ratione eveniet eum aliquam! Aspernatur ut laboriosam cum odio iste ducimus?
+        Mollitia harum assumenda earum excepturi illo quasi neque aperiam impedit, facilis odio commodi exercitationem
+        animi expedita nihil nulla labore iste vitae asperiores nobis culpa porro ea esse quod? Doloribus, mollitia?</p>
+    <h3>Lorem ipsum dolor sit.</h3>
+    <div class="box1">
+        <a href="#"><img src="./1_EyT58O5oHW1bXaW19Y8faw.jpg" alt="photo"></a>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus ad odit quaerat delectus corporis ducimus
+            sit
+            dolore? Necessitatibus maxime quaerat aliquam sapiente cumque dolore velit exercitationem magnam, distinctio
+            odit nostrum.
+            Id minima exercitationem velit repellendus quod quidem veritatis voluptatem illum esse fugit eveniet, vel
+            quam,
+            atque repellat debitis. Harum repellat inventore facere eum consequuntur omnis atque vero commodi culpa
+            quidem?
+            Tempora deserunt nisi maiores fugit iusto doloribus cum rem totam impedit esse eum, vel consequatur sunt
+            exercitationem debitis quo ab, earum, temporibus blanditiis dignissimos quaerat. Illum ut voluptate vitae
+            quam.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum laboriosam modi impedit a dicta possimus.
+            Rem, corporis ullam id, ipsum officiis repellat pariatur repudiandae laboriosam sapiente consequuntur
+            temporibus doloremque eius?
+            Eligendi error, sed ducimus quo tempora reiciendis modi, commodi perferendis sunt quis rerum quidem
+            voluptatibus tempore voluptatem aut pariatur dolores corrupti ullam placeat quibusdam dolorum. Adipisci enim
+            omnis doloribus et.
+            Dignissimos suscipit consectetur quaerat nihil quos voluptates ut aliquam, vitae voluptate obcaecati id
+            iure, veritatis maiores dolore. Architecto cumque nemo consequuntur inventore hic, adipisci necessitatibus
+            temporibus tenetur, earum culpa reiciendis.
+            Adipisci cumque, consequatur nostrum assumenda impedit pariatur quia dolor enim. Deleniti nihil distinctio
+            architecto. Beatae deleniti illum ut reprehenderit ipsa, facere minima adipisci enim nemo at? Exercitationem
+            error recusandae ipsa.
+            Officiis explicabo laborum quam dolorum quidem eligendi ad voluptates magni libero, rem maiores porro
+            veritatis dolore repudiandae atque laboriosam! Eum vitae quo distinctio similique excepturi repellat cumque
+            nemo quod sit!
+        </p>
+    </div>
+
+</body>
+
+</html>
